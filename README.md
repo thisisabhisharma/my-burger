@@ -6,7 +6,7 @@ The user can create their own account, login and check their orders.
 
 [Visit site](https://thisisabhisharma.github.io/my-burger/)
 
-![Imgur](https://imgur.com/a/YeHyz3w)
+[Imgur](https://imgur.com/Tovbxbv)
 
 ## Technologies Used
 
